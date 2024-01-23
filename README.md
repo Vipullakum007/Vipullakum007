@@ -1,4 +1,4 @@
-### # Hello, I'm Vipul Lakum ! 👋
+### Hello, I'm Vipul Lakum ! 👋
 
 ## About Me
 
@@ -21,32 +21,23 @@ I am a Computer Engineering student at Dharmsinh Desai University, currently in 
 - Python
 - Django
 
-## Projects
+## 🚀 Projects
 
-### [Project Name 1](link-to-project-1)
-Description of project 1.
+### [Zoo Booking System](link-to-project-1)
+Description: A modernized system for efficient zoo bookings.
 
-![Project 1 Image](image-url-for-project-1)
+### [Income-expense Tracker System](link-to-project-1)
+Description: Keep track of your income and expenses with this handy tool.
 
-### [Project Name 2](link-to-project-2)
-Description of project 2.
+### [Portfolio](link-to-project-1)
+Description: My personal portfolio showcasing my skills and projects.
 
-![Project 2 Image](image-url-for-project-2)
+## 🌐 Connect with Me
 
-## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/vipul-lakum-114043252/)
+- [Twitter](https://twitter.com/Vipul_Lakum3075)
+- [Email](mailto:lakumvipul6351@gmail.com)
 
-- [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/vipul-lakum-114043252/))
-- [Twitter]([link-to-twitter](https://twitter.com/Vipul_Lakum3075))
-- [Email](lakumvipul6351@gmail.com)
-
-## Competencies
-
-Here are my key competencies and skills:
-
-- Java
-- C++
-- JavaScript
-- Python
 
 
 <!--
