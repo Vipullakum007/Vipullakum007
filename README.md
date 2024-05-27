@@ -17,15 +17,13 @@ I am a Computer Engineering student at Dharmsinh Desai University, currently in 
 
 ## 📚 I'm currently learning ...
 I'm always eager to learn and currently diving deep into:
-- Machine Learning (KNN, SVM)
 - MERN Stack Development
 - Game Development with JavaScript
 
 ## 🎯 Goals: ...
 My short-term and long-term goals include:
 - Completing the GirlScript Summer of Code 2024
-- Contributing to open-source projects
-- Building a comprehensive portfolio of web applications
+- Contributing to open-source project
 - Becoming a full-stack developer
 
 ## 🛠️ Language and Tools
