@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Engineering student at Dharmsinh Desai University, currently in my 2nd year (4th semester). My interests include problem-solving, web development, and cyber security.
+I am a Computer Engineering student at Dharmsinh Desai University, currently in my 3rd year (5th semester). My interests include problem-solving, web development, and cyber security.
 
 ## 📚 I'm currently learning ...
 I'm always eager to learn and currently diving deep into:
