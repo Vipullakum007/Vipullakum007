@@ -1,54 +1,125 @@
-<h1 align="center">Hey there 👋 I am Vipul Lakum</h1>
+<div align="center">
+  
+# 👋 Hey there, I'm Vipul Lakum
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vipul-lakum-114043252/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://leetcode.com/u/vipul_lakum_02/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
-  <a href="mailto:lakumvipul6351@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://codeforces.com/profile/vipul_lakum"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"></a>
-  <a href="https://www.codechef.com/users/vipul_lakum"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Vipullakum007&color=blue&style=flat-square&label=visitors"></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-lakum-114043252/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vipul_lakum_02/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakumvipul6351@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vipul_lakum)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vipul_lakum)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
-## 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Vipullakum007&color=0969DA&style=for-the-badge)
 
-I am a Computer Engineering student at Dharmsinh Desai University, currently in my 3rd year (5th semester). My interests include problem-solving, web development.
+</div>
 
-## 📚 I'm currently learning ...
-I'm always eager to learn and currently diving deep into:
-- MERN Stack Development
-- App Development
+## 💫 About Me
 
-## 🎯 Goals: ...
-My short-term and long-term goals include:
-- Contributing to open-source project
-- Becoming a full-stack developer
+> I'm a Computer Engineering student at Dharmsinh Desai University, currently in my 3rd year. Passionate about problem-solving and building web applications that make a difference.
 
-## 🛠️ Language and Tools
+- 🎓 Pursuing B.Tech in Computer Engineering (5th semester)
+- 💻 Aspiring full-stack developer with focus on MERN stack
+- 🧩 Competitive programmer who enjoys algorithmic challenges
+- 🌱 Open source enthusiast looking to contribute to meaningful projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+## 🚀 Current Focus
 
-## 🔥 My Stats:
+```javascript
+const vipul = {
+  learning: ['Advanced React', 'Node.js', 'System Design', 'App Development'],
+  working: 'On personal projects to strengthen my portfolio',
+  goals: {
+    shortTerm: 'Contributing to open-source projects',
+    longTerm: 'Becoming a versatile full-stack developer'
+  },
+  challenge: 'Improving problem-solving skills with daily coding challenges'
+};
+```
 
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipullakum007&theme=dark" alt="GitHub Streak Stats" align="left" >
+## 🛠️ Tech Stack
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Vipullakum007&show_icons=true&theme=dark" alt="GitHub Stats" align="right">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipullakum007&layout=compact&theme=dark" alt="Top Languages">
-</p>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipullakum007&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vipullakum007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipullakum007&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</div>
+
+## 🏆 Achievements
+
+- Solved 200+ problems on LeetCode, CodeChef, and Codeforces
+- Participated in multiple coding competitions and hackathons
+- Developed web applications using MERN stack
+
+## 📌 Featured Projects
+
+<a href="https://github.com/Vipullakum007/Classync">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vipullakum007&repo=Classync&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Vipullakum007/CoCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vipullakum007&repo=CoCode&theme=tokyonight&hide_border=true" />
+</a>
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-lakumvipul6351%40gmail.com-red?style=flat-square&logo=gmail)](mailto:lakumvipul6351@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=google-chrome)]([https://yourportfolio.dev](https://vipullakum.vercel.app/))
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vipullakum007&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  
+### "Talk is cheap. Show me the code." - Linus Torvalds
+
+</div>
