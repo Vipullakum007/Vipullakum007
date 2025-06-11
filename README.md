@@ -24,20 +24,6 @@
 - 🧩 Competitive programmer who enjoys algorithmic challenges
 - 🌱 Open source enthusiast looking to contribute to meaningful projects
 
-## 🚀 Current Focus
-
-```javascript
-const vipul = {
-  learning: ['React', 'Node.js', 'Web Development', 'App Development'],
-  working: 'On personal projects to strengthen my portfolio',
-  goals: {
-    shortTerm: 'Contributing to open-source projects',
-    longTerm: 'Becoming a versatile full-stack developer'
-  },
-  challenge: 'Improving problem-solving skills with daily coding challenges'
-};
-```
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -105,21 +91,5 @@ const vipul = {
   
 [![Email](https://img.shields.io/badge/Email-lakumvipul6351%40gmail.com-red?style=flat-square&logo=gmail)](mailto:lakumvipul6351@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=google-chrome)](https://vipullakum.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vipullakum007&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  
-### "Talk is cheap. Show me the code." - Linus Torvalds
 
 </div>
