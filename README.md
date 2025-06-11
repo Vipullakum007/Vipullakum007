@@ -17,9 +17,9 @@
 
 ## 💫 About Me
 
-> I'm a Computer Engineering student at Dharmsinh Desai University, currently in my 3rd year. Passionate about problem-solving and building web applications that make a difference.
+> I'm a Computer Engineering student at Dharmsinh Desai University, currently in my 4th year. Passionate about problem-solving and building web applications that make a difference.
 
-- 🎓 Pursuing B.Tech in Computer Engineering (5th semester)
+- 🎓 Pursuing B.Tech in Computer Engineering (7th semester)
 - 💻 Aspiring full-stack developer with focus on MERN stack
 - 🧩 Competitive programmer who enjoys algorithmic challenges
 - 🌱 Open source enthusiast looking to contribute to meaningful projects
@@ -28,7 +28,7 @@
 
 ```javascript
 const vipul = {
-  learning: ['Advanced React', 'Node.js', 'System Design', 'App Development'],
+  learning: ['React', 'Node.js', 'Web Development', 'App Development'],
   working: 'On personal projects to strengthen my portfolio',
   goals: {
     shortTerm: 'Contributing to open-source projects',
@@ -95,8 +95,8 @@ const vipul = {
 <a href="https://github.com/Vipullakum007/Classync">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vipullakum007&repo=Classync&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Vipullakum007/CoCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vipullakum007&repo=CoCode&theme=tokyonight&hide_border=true" />
+<a href="https://edemy-frontend-omega.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vipullakum007&repo=Edemy&theme=tokyonight&hide_border=true" />
 </a>
 
 ## 📫 Connect With Me
@@ -104,7 +104,7 @@ const vipul = {
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-lakumvipul6351%40gmail.com-red?style=flat-square&logo=gmail)](mailto:lakumvipul6351@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=google-chrome)]([https://yourportfolio.dev](https://vipullakum.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=google-chrome)](https://vipullakum.vercel.app/)
 
 </div>
 
